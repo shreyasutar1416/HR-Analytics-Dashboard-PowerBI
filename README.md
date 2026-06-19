@@ -104,7 +104,7 @@ Detailed matrix showing attrition distribution across:
 
 **Shreya Hanamant Sutar**
 
-Final Year B.Tech (Artificial Intelligence & Data Science)
+Final Year B.E (Artificial Intelligence & Data Science)
 
 Passionate about Data Analytics, Power BI, Machine Learning, and AI-driven solutions.
 
